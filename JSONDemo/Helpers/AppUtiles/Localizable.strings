@@ -1,0 +1,16 @@
+/*
+ Localizable.strings
+ Mehul Parmar
+ 
+ Created by Shorhashi Sarkar on 11/23/16.
+ Copyright © 2016 Mehul Parmar. All rights reserved.
+ */
+
+//Login Screen
+"stay_at_your_price" =  "Stay at your price";
+"email" = "Email";
+"password" = "Password";
+"login" = "Login";
+"forgot_password_with_question_mark" = "Forgot Password?";
+"new_sign_up" = "New here? Sign Up";
+"or" = "Or";
